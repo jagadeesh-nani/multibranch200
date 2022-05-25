@@ -7,7 +7,5 @@ pipeline{
                 url: 'https://github.com/jagadeesh-nani/multibranch200.git'
             }
         }
-      
     }
-  
 }
